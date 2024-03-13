@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.correct.score" >
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.Ad_ID" />
+
+    <meta-data
+        android:name="com.startapp.sdk.APPLICATION_ID"
+        android:value="" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/playstorelogo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/playstorelogo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SureBettingTips"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning" >
+        <activity
+            android:name="com.correct.score.FullTimeActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+
+        <activity android:name="com.correct.score.onboarding.OnboardingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.correct.score.ViewDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.correct.score.SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8028844868249552~4192695798" />
+    </application>
+
+</manifest>

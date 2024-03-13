@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#19AC0A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryDark2">#3700B3</color>
+    <color name="nav_drawer">#1E4895</color>
+    <color name="nav_drawer_text">#DBD618</color>
+    <color name="color_brown">#FEBE4E</color>
+    <color name="nav_drawer_email_text">#F2F2F2</color>
+    <color name="vip">#0082E0</color>
+    //new color code
+    <color name="gradgreen">#31CC76</color>
+    <color name="gradgreenlight">#BFEF88</color>
+    <color name="MainBg">#146356</color>
+    <color name="MainBg2">#202342</color>
+    <color name="Bg">#021E67</color>
+    <color name="gradbluelight">#8BF4E9</color>
+    <color name="gradblue">#252A4A</color>
+    <color name="background">#00044B</color>
+    <color name="date_color">#3D51FF</color>
+    <color name="row_item_color1">#3EB31E</color>
+    <color name="row_item_color2">#FEBE4E</color>
+
+    //color for vip
+    <color name="cardcolor">#252A4A</color>
+    <color name="cardtext">#FFFF</color>
+    <color name="gradiantfirst">#9E1149</color>
+    <color name="gradiantsec">#FF4A4A</color>
+
+    <color name="app_bg">#202342</color>
+    <color name="card_bg">#252A4A</color>
+    <color name="etbg">#2D325A</color>
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_test_background_color_2">#00A3A3A3</color>
+    <color name="gnt_black">#000000</color>
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="gnt_red">#FF0000</color>
+    <color name="gnt_green">#00FF00</color>
+    <color name="gnt_blue">#4285f4</color>
+    <color name="gnt_ad_green">#3A6728</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="gnt_outline">#E0E0E0</color>
+
+</resources>

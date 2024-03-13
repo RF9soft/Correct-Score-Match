@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425843572970",
+    "firebase_url": "https://surebetnew-default-rtdb.firebaseio.com",
+    "project_id": "surebetnew",
+    "storage_bucket": "surebetnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425843572970:android:bbe98f716ba12d2cf5d793",
+        "android_client_info": {
+          "package_name": "com.dreamstudio.surebettingtips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425843572970-jvfk3peh7m0ei2gdcm0f3bn56g3bhlgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTXIah4vFQHe3t7kZDLQLp6uY-rmfQPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425843572970-jvfk3peh7m0ei2gdcm0f3bn56g3bhlgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

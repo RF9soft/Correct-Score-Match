@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Correct score matches</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="text_button_calculate">Calculate</string>
+    <string name="text_button_exit">Exit</string>
+    <string name="default_show_result"> </string>
+    <string name="email">correctscoregpt@gmail.com</string>
+    <string name="access_all_vip">Buy all vip</string>
+    <string name="unlocked_all_vip">Unlocked All Vip</string>
+    <string name="notification_channel_id_message">sure-channel</string>
+
+    <string name="tel_link">https://telegram.me/truegames22</string>
+
+
+    <string name="admob_appID">ca-app-pub-8028844868249552~4192695798</string>
+    <string name="admob_banner">ca-app-pub-8028844868249552/7351010474</string>
+    <string name="admob_interstialId">ca-app-pub-8028844868249552/7693791259</string>
+    <string name="admob_nativeId">ca-app-pub-8028844868249552/1715540416</string>
+
+    <string name="first_slide_title">Win Most Prediction</string>
+    <string name="second_slide_title">Get Push Notification Daily</string>
+    <string name="third_slide_title">Get Valuable odds value</string>
+
+
+</resources>
